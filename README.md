@@ -6,13 +6,13 @@
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, C#, Java, Node.js, C++
-- **Frameworks & Tools:** Docker, MongoDB, Selenium, AWS, Pandas
+- **Languages:** Python, C#, Java, Node.js, C++ ,HTML ,
+- **Frameworks & Tools:** Docker, MongoDB, Selenium, AWS, Pandas, Cisco
 - **Interests:** Data Science, Automation, Web Development
 
 ## 🚀 Projects
 
-- [login-logout](https://github.com/PaRzAvAL7/login-logout) &mdash; A robust authentication system (feel free to add a short description here about what makes it special!)
+- [login-logout](https://github.com/PaRzAvAL7/login-logout) &mdash; A robust authentication system which is a simple yet useful program which helps the user to securely login and logout of a program using localStorage , made possible using tokens.
 
 ## ⚽ About Me
 
@@ -21,8 +21,8 @@ Always eager to learn new technologies and contribute to interesting projects.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-link-here) *(add your link!)*  
-- [Email](mailto:your-email@example.com) *(add your email!)*
+- [LinkedIn](https:www.linkedin.com/in/albin-paulson-120475293) 
+- [Email](mailto:albinpaulson760@gmail.com) 
 
 ---
 
